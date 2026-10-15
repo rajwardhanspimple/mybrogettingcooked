@@ -1,0 +1,5 @@
+# This repository contains a pre-built static site (exported HTML, _next assets,
+# images, fonts and models committed at the root), so no build step is needed.
+[build]
+  command = "echo 'Pre-built static site, no build step required'"
+  publish = "."
