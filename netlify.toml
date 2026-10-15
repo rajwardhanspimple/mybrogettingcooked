@@ -1,0 +1,4 @@
+# The site is pre-built static HTML at the repo root, so no build step is needed.
+[build]
+  command = ""
+  publish = "."
